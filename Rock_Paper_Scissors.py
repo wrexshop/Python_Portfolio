@@ -1,4 +1,4 @@
-# Day 5 Coding Challenge
+# Day 4 Coding Challenge
 
 import random
 
